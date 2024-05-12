@@ -1,8 +1,8 @@
-### LEETE ESTO 👋
+# LEETE ESTO 👋
 
 ## y esto otro
 
-# y también esto
+### y también esto
 
 <!--
 **profesorAHM/profesorAHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
